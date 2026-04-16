@@ -138,6 +138,12 @@ This model can help companies:
 * XGBoost
 * Matplotlib / Seaborn
 
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
 ---
 
 ## 🚀 Future Improvements
